@@ -4,8 +4,6 @@ My name is Mohammad Seif. I'm a Back-End developer who started his career from 2
 
 <h3>About me:</h3>
 
-- 💜 I'm interested in Blockchain and web3 technologies
-
 - 📫 How to reach me mohammad.cfc2014@gmail.com
 
 ## Tech Stack:
